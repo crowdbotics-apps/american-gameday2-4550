@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT american_gameday2_4550.wsgi:application
